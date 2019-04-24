@@ -1,0 +1,7 @@
+.vscode
+
+env
+nltk_data
+
+*.zip
+*.csv
