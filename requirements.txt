@@ -1,3 +1,4 @@
 nltk
 pandas
 py_translator
+numpy
